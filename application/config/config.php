@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 // $config['base_url'] = 'http://192.168.7.143/telecenter/';
-$config['base_url'] = 'http://192.168.2.169/kelas/';
+$config['base_url'] = 'http://localhost/kelas/';
 // $config['base_url'] = 'http://192.168.254.247/';
 
 /*
